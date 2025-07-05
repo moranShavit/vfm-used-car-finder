@@ -1,0 +1,26 @@
+# Ignore all CSVs except title_aggregates.csv
+*.csv
+!title_aggregates.csv
+
+# Ignore raw data folders
+data/
+raw_data/
+scraped_chunks/
+playwright_user_data/
+
+# Ignore large or sensitive files
+*.json
+*.zip
+
+# Allow model files
+# (don't ignore .pkl or .joblib — you need them)
+
+# Ignore logs and temp files
+progress.json
+scrape_log.txt
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
