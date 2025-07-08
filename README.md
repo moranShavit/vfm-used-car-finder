@@ -1,11 +1,4 @@
 # 🚗 Best Value-for-Money Used Car Finder (Israel Edition) 🇮🇱  
-![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-orange)  
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)  
-![ML Model](https://img.shields.io/badge/Model-LightGBM-success)  
-![Web Scraping](https://img.shields.io/badge/Scraping-Playwright-green)  
-![License](https://img.shields.io/badge/Data%20Access-Restricted-red)
-
----
 
 ## 🎯 Project Overview
 
